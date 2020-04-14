@@ -2,7 +2,12 @@
 A discord bot that allows you to attack other members.
 
 
-MIT License
+
+
+
+
+
+# MIT License
 
 Copyright (c) 2020 Krowned
 
